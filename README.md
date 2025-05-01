@@ -11,8 +11,8 @@ Here, you will learn about this beautiful programing language to develop your sk
 Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/your-repo.git
-   cd your-repo
+   git clone https://github.com/iliessss/Python.git
+   cd Python
    ```
 
 ## Contact
