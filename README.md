@@ -1,6 +1,10 @@
 # Learning Python
 
->> print("Hello World!") Here, you will learn about this beautiful programing language to develop your skills in the CFD (Computational Fluid Dynamics)
+>> print("Hello World!")
+
+## Description
+
+Here, you will learn about this beautiful programing language to develop your skills in the CFD (Computational Fluid Dynamics)
 
 ## Installation
 
